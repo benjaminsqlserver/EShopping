@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:catalog\\catalog.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71831041-81E1-4B85-8269-3F7D141D7D9B}|Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D30DA5-E259-4268-8F5A-0929C51216CD}|Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.application\\catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35D30DA5-E259-4268-8F5A-0929C51216CD}|Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:catalog\\catalog.application\\catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0F5076-C5AE-4088-A2BA-18B8325407D1}|Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C0F5076-C5AE-4088-A2BA-18B8325407D1}|Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0F5076-C5AE-4088-A2BA-18B8325407D1}|Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0F5076-C5AE-4088-A2BA-18B8325407D1}|Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:catalog\\catalog.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D30DA5-E259-4268-8F5A-0929C51216CD}|Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D30DA5-E259-4268-8F5A-0929C51216CD}|Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:catalog\\catalog.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615284CD-E89C-4BD0-BAF3-F6DA74F9D69C}|Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\user\\downloads\\workingfolder\\microservices\\eshopping\\catalog\\catalog.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615284CD-E89C-4BD0-BAF3-F6DA74F9D69C}|Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:catalog\\catalog.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:17:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Startup.cs",
+              "RelativeToolTip": "Catalog\\Catalog.API\\Startup.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:57:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T08:36:26.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.Application",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.Application\\Catalog.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+              "RelativeToolTip": "Catalog\\Catalog.Application\\Catalog.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T08:35:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeToolTip": "Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T08:34:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Catalog\\Catalog.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:55:48.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Application\\Class1.cs",
+              "RelativeToolTip": "Catalog\\Catalog.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:52:03.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\WorkingFolder\\Microservices\\Eshopping\\Catalog\\Catalog.Core\\Class1.cs",
+              "RelativeToolTip": "Catalog\\Catalog.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:53:05.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
